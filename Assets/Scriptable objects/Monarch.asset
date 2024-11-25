@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d5b13f88706f7c42b9ab87bb57be5c2, type: 3}
+  m_Name: Monarch
+  m_EditorClassIdentifier: 
+  critterName: Monarch Butterfly
+  logo: {fileID: 21300000, guid: fc08f9fc8b0088445850b7f0d936a395, type: 3}
+  infoCard: {fileID: 21300000, guid: f53d1eb232f5f014d82b903d8cccb7eb, type: 3}
+  animationSprite: {fileID: 21300000, guid: 6c5d7f91154a7bf42a2432794e393869, type: 3}
+  animatorController: {fileID: 9100000, guid: 1715524c95a3d424da4ca9ceba8b52bf, type: 2}
+  description: 
