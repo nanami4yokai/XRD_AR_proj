@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5193780024863489618
+  m_GuidHigh: 16225134406063139971
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4803960552208699048
+      m_GuidHigh: 81532107638678194
+    m_SerializedTextureGuid:
+      m_GuidLow: 10611632668855061531
+      m_GuidHigh: 15982947199743665642
+    m_Size: {x: 0.074228026, y: 0.12499999}
+    m_SpecifySize: 0
+    m_Name: Insect_Card_Emperor
+    m_Texture: {fileID: 2800000, guid: 82094c1b17b09344eaa58b00ccd5cedd, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5289401137434264642
+      m_GuidHigh: 6810145484350921898
+    m_SerializedTextureGuid:
+      m_GuidLow: 11327766264163869309
+      m_GuidHigh: 2674699684621649210
+    m_Size: {x: 0.074228026, y: 0.12499999}
+    m_SpecifySize: 0
+    m_Name: Insect_Card_Monarch
+    m_Texture: {fileID: 2800000, guid: 7224227d4f669d343a05b92631711e25, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4749996087678261018
+      m_GuidHigh: 4416885117559643531
+    m_SerializedTextureGuid:
+      m_GuidLow: 7445643479795786358
+      m_GuidHigh: 11368531143628357147
+    m_Size: {x: 0.074228026, y: 0.12499999}
+    m_SpecifySize: 0
+    m_Name: Insect_Card_Peacock
+    m_Texture: {fileID: 2800000, guid: d16e62763d4b67541bfeee91d722c59d, type: 3}
